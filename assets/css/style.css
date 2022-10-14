@@ -969,6 +969,8 @@ section {
   background-color: #0fbdb4;
 }
 
+
+
 /*--------------------------------------------------------------
 # Cta
 --------------------------------------------------------------*/
@@ -1305,7 +1307,7 @@ section {
   position: relative;
   z-index: 2;
   text-align: center;
-  padding: 80px 0;
+  padding: 40px 0;
 }
 
 #footer .footer-top h3 {
@@ -1371,17 +1373,17 @@ section {
 }
 
 #footer .footer-top .social-links a {
-  font-size: 18px;
+  font-size: 30px;
   display: inline-block;
   background: #eaecef;
   color: #5f687b;
   line-height: 1;
-  padding: 8px 0;
-  margin-right: 4px;
-  border-radius: 4px;
+  padding: 20px;
+  /* margin-right: 4px; */
+  /* border-radius: 4px; */
   text-align: center;
-  width: 36px;
-  height: 36px;
+  /* width: 36px; */
+  /* height: 36px; */
   transition: 0.3s;
 }
 
